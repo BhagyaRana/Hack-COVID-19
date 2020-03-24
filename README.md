@@ -25,5 +25,8 @@ Pull requests are welcome.
     cd covidreactapp
    ```
 2. ```
+    npm install  OR yarn add
+   ```
+3. ```
     npm start  OR yarn start
    ```
