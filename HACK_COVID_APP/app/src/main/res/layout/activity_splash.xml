@@ -19,6 +19,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/imglogo"
         android:text="Quarantine Productivity"
+        android:focusable="false"
         android:textSize="30dp"
         android:textStyle="italic"
         android:textColor="@color/colorAccent"
